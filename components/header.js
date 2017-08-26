@@ -13,7 +13,7 @@ const HeaderContainer = styled.header`
   }
 `
 
-const Header = (props) => {
+const Header = () => {
   return(
     <HeaderContainer>
       <Title>

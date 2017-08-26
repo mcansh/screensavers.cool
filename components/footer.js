@@ -16,7 +16,7 @@ const FooterContainer = styled.footer`
   }
 `
 
-const Footer = (props) => {
+const Footer = () => {
   return(
     <FooterContainer>
       <p>© 2017 <a href="https://soff.es" rel="external">Sam Soffes</a></p>
